@@ -16,7 +16,7 @@
         "bankFunction": {
           "dbHost": "database-1.cluster-cmfmk4wmsvuh.us-east-1.rds.amazonaws.com",
           "deploymentBucketName": "amplify-paymentfront-dev-13344-deployment",
-          "s3Key": "amplify-builds/bankFunction-3567504354324238414a-build.zip"
+          "s3Key": "amplify-builds/bankFunction-6c3170466c716b2f625a-build.zip"
         }
       },
       "api": {
